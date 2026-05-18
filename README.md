@@ -1,5 +1,5 @@
 # 🎓 EduPath Pro - AI-Powered College Prediction & Career Guidance System
-
+https://college-predictor-aigit-xkrgeapybadcxectampiku.streamlit.app/
 ## 📋 Overview
 
 EduPath Pro is an enterprise-grade college admission prediction and career guidance platform that leverages Machine Learning to help students make informed decisions about their higher education. The system provides personalized college recommendations, placement predictions, and comprehensive analytics.
